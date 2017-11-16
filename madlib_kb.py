@@ -24,7 +24,7 @@ while True:
     adj4 = input()
     print("Give me another adjective")
     adj5 = input()
-    print ("Give me a noun")
+    print ("Give me a plural noun")
     noun3 = input()
     print("Give me another noun")
     noun4 = input()
